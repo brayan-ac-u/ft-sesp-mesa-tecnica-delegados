@@ -1,0 +1,329 @@
+.table-scroll {
+  max-height: 63vh !important;
+}
+
+.nav {
+  background-color: transparent !important;
+}
+
+.sin-scroll-vertical {
+  overflow-y: hidden !important;
+}
+
+.tab-content {
+  height: fit-content !important;
+}
+
+.unp-row-subtitle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.red-section {
+  width: 10px;
+  background-color: #d13c47;
+  color: transparent;
+}
+
+.anexo-tecnico-page .table-scroll {
+  max-height: 72vh !important;
+}
+
+.bg-section-small {
+  background-color: #f7f7f7;
+  padding: 0.5rem;
+  border-radius: 10px;
+  min-height: 2.5rem;
+}
+
+.bg-section-small2 {
+  background-color: #e0e0e0;
+  padding: 0.5rem;
+  border-radius: 10px;
+  min-height: 2.5rem;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.item_container {
+  flex-grow: 1;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  border: 1px solid #F4F4F4;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px gainsboro;
+  color: #303D50;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.iconLabel_container {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.iconProcess_menu {
+  font-size: 20px;
+}
+
+.item_container:hover {
+  background-color: #303D50;
+  color: white;
+  transition: all 0.3s ease-in-out
+}
+
+.unp-row-subtitle {
+  margin-bottom: 2rem !important;
+  align-items: center;
+}
+
+.modal_subtitle_container {
+  display: flex;
+  gap: 0.5rem;
+  font-size: 18px;
+  font-weight: 400;
+  align-items: center;
+}
+
+.files_container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem;
+}
+
+.anexo_item {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  color: #303D50;
+  border-radius: 10px;
+  border: 1px solid #F4F4F4;
+  box-shadow: 3px 3px 5px gainsboro;
+  padding: 1rem;
+  cursor: pointer;
+  align-items: center;
+}
+
+.file_icon_container {
+  font-size: 1.5rem;
+}
+
+.anexo_item:hover {
+  background-color: #303D50;
+  color: white;
+  transition: all 0.3s ease-in-out
+}
+
+.download_icon {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.stateContainer {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.item_row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.download_container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  border-radius: 10px;
+  border: 1px solid #F4F4F4;
+  box-shadow: 3px 3px 5px gainsboro;
+  padding: 1rem;
+  cursor: pointer;
+  margin-left: 0.5rem;
+}
+
+.download_container:hover {
+  background-color: #303D50;
+  color: white;
+  transition: all 0.3s ease-in-out
+}
+
+.item_container_datos {
+  border: 1px solid gainsboro;
+  border-radius: 10px;
+  padding: 0 1rem;
+  margin: 1rem 0;
+  box-shadow: 3px 4px 5px gainsboro;
+}
+
+.tittle-container-modal {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.boton-desplegable {
+  background-color: transparent !important;
+  font-size: 25px !important;
+  color: #303d50;
+}
+
+.boton-desplegable:hover {
+  color: #697586;
+  transition: all 0.3s ease-in-out;
+}
+
+.align-datepicker {
+  height: calc(1.5em + 0.75rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+}
+
+.react-datepicker-wrapper {
+  display: flex !important;
+}
+
+.resumen-estudio-modal__grid {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.resumen-estudio-modal__grid dt,
+.resumen-estudio-modal__grid dd {
+  text-align: left;
+  margin: 0;
+}
+
+.resumen-estudio-modal__grid dt {
+  font-weight: 600;
+  margin-top: 0.75rem;
+}
+
+.resumen-estudio-modal__grid dd {
+  margin-bottom: 0.75rem;
+  color: #333;
+}
+
+.resumen-estudio-modal__footer {
+  text-align: right;
+  margin-top: 1rem;
+}
+
+.resumen-estudio-modal__btn {
+  background-color: #395C8B !important;
+  border-color: #395C8B !important;
+}
+
+.detalles-sesion-pasada__votacion {
+  background-color: #fff;
+}
+
+.detalles-sesion-pasada__votacion-flex {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+
+.detalles-sesion-pasada__chart {
+  flex: 0 0 300px;
+}
+
+.detalles-sesion-pasada__info {
+  flex: 1;
+  text-align: left;
+}
+
+.detalles-sesion-pasada__info p {
+  margin: 0.5rem 0;
+}
+
+.detalles-sesion-pasada__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.detalles-sesion-pasada__info .dspp-line {
+  margin: 1rem 0;
+  text-align: left;
+}
+
+.detalles-sesion-pasada__votacion-flex {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+
+.detalles-sesion-pasada__chart {
+  flex: 0 0 200px;
+}
+
+.detalles-sesion-pasada__info {
+  flex: 1;
+}
+
+.subcomision-hover-container {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  overflow: hidden;
+  gap: 0.5rem;
+}
+
+.slide-text {
+  transition: transform 0.3s ease;
+}
+
+.subcomision-hover-container:hover .slide-text {
+  transform: translateX(-30px);
+}
+
+.download-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  position: absolute;
+  right: 0;
+  opacity: 0;
+  transform: translateX(10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  cursor: pointer;
+}
+
+.subcomision-hover-container:hover .download-wrapper {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.download-icon-btn {
+  font-size: 1.5rem;
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.download-wrapper:hover .download-icon-btn {
+  transform: scale(1.25);
+  color: #303D50;
+}
+
+.download-label {
+  font-size: 0.85rem;
+  color: #303D50;
+}
+
+/*#progressbar li.active .step {
+    background: #303D50;
+    color: red;
+}

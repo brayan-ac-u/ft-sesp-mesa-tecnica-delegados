@@ -68,3 +68,4 @@ export default tseslint.config([
 ])
 ```
 # ft-sesp-mesa-tecnica-delegados
+# ft-sesp-mesa-tecnica-delegados
