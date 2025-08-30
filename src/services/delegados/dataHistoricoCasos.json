@@ -1,0 +1,577 @@
+[
+    {
+        "canal": "Pendiente",
+        "registro": "REG010",
+        "ot": "OTI0029",
+        "primerNombreEvaluado": "Catalina",
+        "segundoNombreEvaluado": "",
+        "primerApellidoEvaluado": "Herrera",
+        "segundoApellidoEvaluado": "Muñoz",
+        "tipoIdentificacionEvaluado": "C.C.",
+        "numeroIdentificacionEvaluado": "834762195",
+        "fechaEmision": "2023-01-03",
+        "primerNombreAnalista": "Brandon",
+        "segundoNombreAnalista": "Camilo",
+        "primerApellidoAnalista": "Sarmiento",
+        "segundoApellidoAnalista": "Ibagón",
+        "fechaSubcomision": "2025-02-01",
+        "subcomision": "Subcomisión de Genero",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG010-01",
+                "pregunta": "¿Está de acuerdo con remitir el caso a Mesa Técnica?",
+                "conteo": {
+                    "deAcuerdo": 7,
+                    "enDesacuerdo": 2,
+                    "abstencion": 1
+                },
+                "resultado": "Aprobado"
+            },
+            {
+                "idEncuesta": "enc-REG010-02",
+                "pregunta": "¿Está de acuerdo con devolver el caso al GRAERR?",
+                "conteo": {
+                    "deAcuerdo": 4,
+                    "enDesacuerdo": 5,
+                    "abstencion": 1
+                },
+                "resultado": "Disenso"
+            }
+        ],
+        "recomendacionSubcomision": "Remitir a Mesa Técnica",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG002",
+        "ot": "OTI0002",
+        "primerNombreEvaluado": "Andrea",
+        "segundoNombreEvaluado": "Carolina",
+        "primerApellidoEvaluado": "Ramírez",
+        "segundoApellidoEvaluado": "",
+        "tipoIdentificacionEvaluado": "C.C.",
+        "numeroIdentificacionEvaluado": "1122334455",
+        "fechaEmision": "2025-01-10",
+        "primerNombreAnalista": "Carlos",
+        "segundoNombreAnalista": "",
+        "primerApellidoAnalista": "Fernández",
+        "segundoApellidoAnalista": "Mejía",
+        "fechaSubcomision": "2025-02-03",
+        "subcomision": "PONAL",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG002-01",
+                "pregunta": "¿Está de acuerdo con devolver el caso al GRAERR?",
+                "conteo": {
+                    "deAcuerdo": 6,
+                    "enDesacuerdo": 3,
+                    "abstencion": 1
+                },
+                "resultado": "Aprobado"
+            },
+            {
+                "idEncuesta": "enc-REG002-02",
+                "pregunta": "¿Está de acuerdo con la sugerencia de medidas del GRAERR?",
+                "conteo": {
+                    "deAcuerdo": 5,
+                    "enDesacuerdo": 4,
+                    "abstencion": 1
+                },
+                "resultado": "Aprobado"
+            }
+        ],
+        "recomendacionSubcomision": "Devolver al GRAERR",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG003",
+        "ot": "OTI0003",
+        "primerNombreEvaluado": "Luis",
+        "segundoNombreEvaluado": "Alberto",
+        "primerApellidoEvaluado": "Castaño",
+        "segundoApellidoEvaluado": "Guerra",
+        "tipoIdentificacionEvaluado": "T.I.",
+        "numeroIdentificacionEvaluado": "900112233",
+        "fechaEmision": "2025-01-15",
+        "primerNombreAnalista": "Daniela",
+        "segundoNombreAnalista": "",
+        "primerApellidoAnalista": "Sánchez",
+        "segundoApellidoAnalista": "Ortiz",
+        "fechaSubcomision": "2025-02-05",
+        "subcomision": "Territoriales",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG003-01",
+                "pregunta": "¿Está de acuerdo con remitir el caso a Mesa Técnica?",
+                "conteo": {
+                    "deAcuerdo": 8,
+                    "enDesacuerdo": 1,
+                    "abstencion": 1
+                },
+                "resultado": "Aprobado"
+            }
+        ],
+        "recomendacionSubcomision": "Remitir a Mesa Técnica",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG004",
+        "ot": "OTI0004",
+        "primerNombreEvaluado": "Sofía",
+        "segundoNombreEvaluado": "",
+        "primerApellidoEvaluado": "Navarro",
+        "segundoApellidoEvaluado": "Díaz",
+        "tipoIdentificacionEvaluado": "C.C.",
+        "numeroIdentificacionEvaluado": "1009988776",
+        "fechaEmision": "2025-01-18",
+        "primerNombreAnalista": "Felipe",
+        "segundoNombreAnalista": "Andrés",
+        "primerApellidoAnalista": "Córdoba",
+        "segundoApellidoAnalista": "",
+        "fechaSubcomision": "2025-02-07",
+        "subcomision": "Subcomisión de Genero",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG004-01",
+                "pregunta": "¿Está de acuerdo con devolver el caso al GRAERR?",
+                "conteo": {
+                    "deAcuerdo": 3,
+                    "enDesacuerdo": 6,
+                    "abstencion": 1
+                },
+                "resultado": "Disenso"
+            }
+        ],
+        "recomendacionSubcomision": "Aplicar medidas del GRAERR",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG005",
+        "ot": "OTI0005",
+        "primerNombreEvaluado": "Camila",
+        "segundoNombreEvaluado": "Juliana",
+        "primerApellidoEvaluado": "Salazar",
+        "segundoApellidoEvaluado": "",
+        "tipoIdentificacionEvaluado": "C.E.",
+        "numeroIdentificacionEvaluado": "456789321",
+        "fechaEmision": "2025-01-22",
+        "primerNombreAnalista": "Santiago",
+        "segundoNombreAnalista": "Eduardo",
+        "primerApellidoAnalista": "Montoya",
+        "segundoApellidoAnalista": "León",
+        "fechaSubcomision": "2025-02-09",
+        "subcomision": "PONAL",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG005-01",
+                "pregunta": "¿Está de acuerdo con remitir el caso a Mesa Técnica?",
+                "conteo": {
+                    "deAcuerdo": 9,
+                    "enDesacuerdo": 1,
+                    "abstencion": 0
+                },
+                "resultado": "Aprobado"
+            }
+        ],
+        "recomendacionSubcomision": "Remitir a Mesa Técnica",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG100",
+        "ot": "OTI1000",
+        "primerNombreEvaluado": "Mariana",
+        "segundoNombreEvaluado": "Alejandra",
+        "primerApellidoEvaluado": "Gómez",
+        "segundoApellidoEvaluado": "Ramos",
+        "tipoIdentificacionEvaluado": "C.E.",
+        "numeroIdentificacionEvaluado": "5240083833",
+        "fechaEmision": "2025-01-13",
+        "primerNombreAnalista": "Mariana",
+        "segundoNombreAnalista": "Andrés",
+        "primerApellidoAnalista": "Hernández",
+        "segundoApellidoAnalista": "Vargas",
+        "fechaSubcomision": "2025-02-11",
+        "subcomision": "Territoriales",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG100-01",
+                "pregunta": "¿Está de acuerdo con la sugerencia de medidas del GRAERR?",
+                "conteo": {
+                    "deAcuerdo": 6,
+                    "enDesacuerdo": 3,
+                    "abstencion": 1
+                },
+                "resultado": "Aprobado"
+            }
+        ],
+        "recomendacionSubcomision": "Aplicar medidas del GRAERR",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG101",
+        "ot": "OTI1001",
+        "primerNombreEvaluado": "Daniela",
+        "segundoNombreEvaluado": "Carolina",
+        "primerApellidoEvaluado": "Torres",
+        "segundoApellidoEvaluado": "García",
+        "tipoIdentificacionEvaluado": "C.C.",
+        "numeroIdentificacionEvaluado": "1442019460",
+        "fechaEmision": "2025-01-30",
+        "primerNombreAnalista": "Felipe",
+        "segundoNombreAnalista": "Marcela",
+        "primerApellidoAnalista": "Pérez",
+        "segundoApellidoAnalista": "",
+        "fechaSubcomision": "2025-02-13",
+        "subcomision": "Subcomisión de Genero",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG101-01",
+                "pregunta": "¿Está de acuerdo con remitir el caso a Mesa Técnica?",
+                "conteo": {
+                    "deAcuerdo": 5,
+                    "enDesacuerdo": 4,
+                    "abstencion": 1
+                },
+                "resultado": "Aprobado"
+            }
+        ],
+        "recomendacionSubcomision": "Remitir a Mesa Técnica",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG102",
+        "ot": "OTI1002",
+        "primerNombreEvaluado": "Juliana",
+        "segundoNombreEvaluado": "",
+        "primerApellidoEvaluado": "López",
+        "segundoApellidoEvaluado": "",
+        "tipoIdentificacionEvaluado": "C.C.",
+        "numeroIdentificacionEvaluado": "2020941695",
+        "fechaEmision": "2025-01-12",
+        "primerNombreAnalista": "Valentina",
+        "segundoNombreAnalista": "Alejandra",
+        "primerApellidoAnalista": "Martínez",
+        "segundoApellidoAnalista": "Vargas",
+        "fechaSubcomision": "2025-02-02",
+        "subcomision": "PONAL",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG102-01",
+                "pregunta": "¿Está de acuerdo con devolver el caso al GRAERR?",
+                "conteo": {
+                    "deAcuerdo": 4,
+                    "enDesacuerdo": 5,
+                    "abstencion": 1
+                },
+                "resultado": "Disenso"
+            }
+        ],
+        "recomendacionSubcomision": "Devolver al GRAERR",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG103",
+        "ot": "OTI1003",
+        "primerNombreEvaluado": "Daniela",
+        "segundoNombreEvaluado": "Eduardo",
+        "primerApellidoEvaluado": "Moreno",
+        "segundoApellidoEvaluado": "Vargas",
+        "tipoIdentificacionEvaluado": "T.I.",
+        "numeroIdentificacionEvaluado": "5031724926",
+        "fechaEmision": "2025-01-12",
+        "primerNombreAnalista": "Camilo",
+        "segundoNombreAnalista": "Carolina",
+        "primerApellidoAnalista": "López",
+        "segundoApellidoAnalista": "Ortiz",
+        "fechaSubcomision": "2025-02-04",
+        "subcomision": "Territoriales",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG103-01",
+                "pregunta": "¿Está de acuerdo con remitir el caso a Mesa Técnica?",
+                "conteo": {
+                    "deAcuerdo": 6,
+                    "enDesacuerdo": 3,
+                    "abstencion": 1
+                },
+                "resultado": "Aprobado"
+            }
+        ],
+        "recomendacionSubcomision": "Remitir a Mesa Técnica",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG104",
+        "ot": "OTI1004",
+        "primerNombreEvaluado": "Carlos",
+        "segundoNombreEvaluado": "Antonio",
+        "primerApellidoEvaluado": "Martínez",
+        "segundoApellidoEvaluado": "Ramos",
+        "tipoIdentificacionEvaluado": "C.E.",
+        "numeroIdentificacionEvaluado": "1918015525",
+        "fechaEmision": "2025-01-10",
+        "primerNombreAnalista": "Valentina",
+        "segundoNombreAnalista": "Eduardo",
+        "primerApellidoAnalista": "Martínez",
+        "segundoApellidoAnalista": "",
+        "fechaSubcomision": "2025-02-06",
+        "subcomision": "Subcomisión de Genero",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG104-01",
+                "pregunta": "¿Está de acuerdo con aplicar medidas del GRAERR?",
+                "conteo": {
+                    "deAcuerdo": 2,
+                    "enDesacuerdo": 7,
+                    "abstencion": 1
+                },
+                "resultado": "Disenso"
+            }
+        ],
+        "recomendacionSubcomision": "Aplicar medidas del GRAERR",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG105",
+        "ot": "OTI1005",
+        "primerNombreEvaluado": "Andrés",
+        "segundoNombreEvaluado": "",
+        "primerApellidoEvaluado": "Torres",
+        "segundoApellidoEvaluado": "",
+        "tipoIdentificacionEvaluado": "C.C.",
+        "numeroIdentificacionEvaluado": "8698808863",
+        "fechaEmision": "2025-01-05",
+        "primerNombreAnalista": "Andrés",
+        "segundoNombreAnalista": "Andrés",
+        "primerApellidoAnalista": "Moreno",
+        "segundoApellidoAnalista": "Ortiz",
+        "fechaSubcomision": "2025-02-08",
+        "subcomision": "PONAL",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG105-01",
+                "pregunta": "¿Está de acuerdo con cerrar el caso sin acción?",
+                "conteo": {
+                    "deAcuerdo": 5,
+                    "enDesacuerdo": 4,
+                    "abstencion": 1
+                },
+                "resultado": "Aprobado"
+            }
+        ],
+        "recomendacionSubcomision": "Cerrar caso sin acción",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG106",
+        "ot": "OTI1006",
+        "primerNombreEvaluado": "Valentina",
+        "segundoNombreEvaluado": "Alejandra",
+        "primerApellidoEvaluado": "Torres",
+        "segundoApellidoEvaluado": "Vargas",
+        "tipoIdentificacionEvaluado": "C.E.",
+        "numeroIdentificacionEvaluado": "2910014640",
+        "fechaEmision": "2025-01-11",
+        "primerNombreAnalista": "Camilo",
+        "segundoNombreAnalista": "Eduardo",
+        "primerApellidoAnalista": "Pérez",
+        "segundoApellidoAnalista": "Mejía",
+        "fechaSubcomision": "2025-02-10",
+        "subcomision": "Territoriales",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG106-01",
+                "pregunta": "¿Está de acuerdo con remitir el caso a Mesa Técnica?",
+                "conteo": {
+                    "deAcuerdo": 8,
+                    "enDesacuerdo": 2,
+                    "abstencion": 0
+                },
+                "resultado": "Aprobado"
+            }
+        ],
+        "recomendacionSubcomision": "Remitir a Mesa Técnica",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG107",
+        "ot": "OTI1007",
+        "primerNombreEvaluado": "Juliana",
+        "segundoNombreEvaluado": "Andrés",
+        "primerApellidoEvaluado": "López",
+        "segundoApellidoEvaluado": "",
+        "tipoIdentificacionEvaluado": "T.I.",
+        "numeroIdentificacionEvaluado": "1878126671",
+        "fechaEmision": "2025-01-01",
+        "primerNombreAnalista": "Valentina",
+        "segundoNombreAnalista": "",
+        "primerApellidoAnalista": "Gómez",
+        "segundoApellidoAnalista": "",
+        "fechaSubcomision": "2025-02-12",
+        "subcomision": "Subcomisión de Genero",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG107-01",
+                "pregunta": "¿Está de acuerdo con devolver el caso al GRAERR?",
+                "conteo": {
+                    "deAcuerdo": 3,
+                    "enDesacuerdo": 6,
+                    "abstencion": 1
+                },
+                "resultado": "Disenso"
+            }
+        ],
+        "recomendacionSubcomision": "Devolver al GRAERR",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG108",
+        "ot": "OTI1008",
+        "primerNombreEvaluado": "Camilo",
+        "segundoNombreEvaluado": "",
+        "primerApellidoEvaluado": "Torres",
+        "segundoApellidoEvaluado": "",
+        "tipoIdentificacionEvaluado": "C.E.",
+        "numeroIdentificacionEvaluado": "7235275307",
+        "fechaEmision": "2025-01-27",
+        "primerNombreAnalista": "Camilo",
+        "segundoNombreAnalista": "Antonio",
+        "primerApellidoAnalista": "Martínez",
+        "segundoApellidoAnalista": "",
+        "fechaSubcomision": "2025-02-14",
+        "subcomision": "PONAL",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG108-01",
+                "pregunta": "¿Está de acuerdo con remitir el caso a Mesa Técnica?",
+                "conteo": {
+                    "deAcuerdo": 9,
+                    "enDesacuerdo": 0,
+                    "abstencion": 1
+                },
+                "resultado": "Aprobado"
+            }
+        ],
+        "recomendacionSubcomision": "Remitir a Mesa Técnica",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    },
+    {
+        "canal": "Pendiente",
+        "registro": "REG109",
+        "ot": "OTI1009",
+        "primerNombreEvaluado": "Andrés",
+        "segundoNombreEvaluado": "",
+        "primerApellidoEvaluado": "Torres",
+        "segundoApellidoEvaluado": "García",
+        "tipoIdentificacionEvaluado": "C.E.",
+        "numeroIdentificacionEvaluado": "7377827393",
+        "fechaEmision": "2025-01-01",
+        "primerNombreAnalista": "Felipe",
+        "segundoNombreAnalista": "",
+        "primerApellidoAnalista": "Hernández",
+        "segundoApellidoAnalista": "",
+        "fechaSubcomision": "2025-02-15",
+        "subcomision": "Territoriales",
+        "votaciones": [
+            {
+                "idEncuesta": "enc-REG109-01",
+                "pregunta": "¿Está de acuerdo con cerrar el caso sin acción?",
+                "conteo": {
+                    "deAcuerdo": 4,
+                    "enDesacuerdo": 5,
+                    "abstencion": 1
+                },
+                "resultado": "Disenso"
+            }
+        ],
+        "recomendacionSubcomision": "Cerrar caso sin acción",
+        "opcionesRecomendacion": [
+            "Remitir a Mesa Técnica",
+            "Devolver al GRAERR",
+            "Aplicar medidas del GRAERR",
+            "Cerrar caso sin acción"
+        ]
+    }
+]

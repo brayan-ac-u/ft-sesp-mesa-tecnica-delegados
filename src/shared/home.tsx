@@ -2,7 +2,6 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import "../styles/home.css";
 import CardItem from "./cardItem";
-import { MdEvent } from "react-icons/md";
 import { FaFileSignature } from "react-icons/fa";
 
 
@@ -13,21 +12,21 @@ const Home: React.FC = () => {
     const options = [
         {
             id: 1,
-            title: "Moderador Subcomisión",
+            title: "Delegados",
             description:
-                "Encargado de agendar reuniones, invitar a los asistentes y definir la prioridad y casos a tratar.",
-            icon: <MdEvent size={40} color="#2ecc71" />,
-            color: "#e8f8f5",
-            route: "/sesp/gps/subcomisiones/moderador/tablaCasos",
+                "Delegados de mesa tecnica.",
+            icon: <FaFileSignature size={40} color="#3498db" />,
+            color: "#eaf2f8",
+            route: "sesp/mesaTDelegados/bandejaEntrada",
         },
         {
             id: 2,
-            title: "Inserción de Medidas y Actas Subcomisión",
+            title: "Votaciones",
             description:
-                "Gestión de la inserción de medidas de protección y actas de sesiones.",
+                "- Votaciones en subcomisiones o mesa tecnica -",
             icon: <FaFileSignature size={40} color="#3498db" />,
             color: "#eaf2f8",
-            route: "/sesp/gps/subcomisiones/insercion/bandejaCasos",
+            route: "sesp/mesaTDelegados/bandejaEntrada",
         }
     ];
 
